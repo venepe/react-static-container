@@ -20,7 +20,7 @@ var babelOpts = {
   stage: 1,
   plugins: [babelPluginDEV, babelPluginModules],
   _moduleMap: {
-    'React': 'react',
+    'React': 'react-native',
   }
 };
 
