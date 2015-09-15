@@ -38,7 +38,7 @@
     "gulp-babel": "^5.2.0",
     "jest-cli": "^0.4.17",
     "object-assign": "^3.0.0",
-    "react-native": "^0.10.1",
+    "react-native": "^0.11.0",
     "run-sequence": "^1.1.2"
   },
   "peerDependencies": {
