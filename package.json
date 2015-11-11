@@ -42,6 +42,6 @@
     "run-sequence": "^1.1.2"
   },
   "peerDependencies": {
-    "react-native": "^0.11.0"
+    "react-native": ">=0.14.0"
   }
 }
